@@ -1,2 +1,15 @@
 .history/
 node_modules/*
+test/*
+test/reports/unit/assets/roboto-medium-webfont.woff2
+test/reports/unit/unitTestReport.html
+test/reports/unit/unitTestReport.json
+test/reports/unit/assets/MaterialIcons-Regular.woff
+test/reports/unit/assets/MaterialIcons-Regular.woff2
+test/reports/unit/assets/app.css
+test/reports/unit/assets/app.js
+test/reports/unit/assets/roboto-light-webfont.woff
+test/reports/unit/assets/roboto-light-webfont.woff2
+test/reports/unit/assets/roboto-medium-webfont.woff
+test/reports/unit/assets/roboto-regular-webfont.woff
+test/reports/unit/assets/roboto-regular-webfont.woff2
