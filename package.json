@@ -1,5 +1,5 @@
 {
-  "name": "Game",
+  "name": "rock-paper-secissors-game",
   "version": "1.0.0",
   "description": "Game options",
   "main": "index.js",
