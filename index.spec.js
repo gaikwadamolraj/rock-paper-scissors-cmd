@@ -75,6 +75,6 @@ describe('Game validation', () => {
     });
     
     it('getInitChoice get weapon string',  () => {
-        expect(getInitChoice()).to.eql('Select type of Game? \n ---------------\n 1 - Comp vs Comp\n 2 - Comp vs Player \n 3 - Exit Game \n --------------- \n');
+        expect(getInitChoice()).to.eql('Select type of Game? \n ---------------\n 1 - Comp vs Comp\n 2 - Comp vs Player\n 3 - Exit Game \n --------------- \n');
     });
 });
