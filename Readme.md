@@ -26,7 +26,7 @@ $ npm run start
 Execute unit test cases:
 
 ```sh
-$ npm run test:unit
+$ npm run test
 ```
 
 ## How to play
